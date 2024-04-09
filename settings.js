@@ -16,10 +16,10 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  OWNER_NUMBER: "94719750429",
+  SUDO_NUMBERS : "94719750429",
+  OWNER_NAME: "『@🅼🆁.🅂🄰🅆🅆🄰/࿐』",
+  BOT_NAME : "*🄼🅁.🅂🄰🅆🅆🄰ᵇᵒᵗ©*",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -27,8 +27,8 @@ module.exports = {
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
   STOP_SEND : {
-        WELCOME_MESSAGE : false,
-        GOODBYE_MESSAGE : false
+        WELCOME_MESSAGE : true,
+        GOODBYE_MESSAGE : true
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
@@ -36,12 +36,12 @@ module.exports = {
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  STICKER_PACK : '[*🄼🅁.🅂🄰🅆🅆🄰ᵇᵒᵗ©*]',
   BAD_WORDS : 'fuck,pussy',
-  ANTI_BAD : false,
+  ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
-  ANTI_LINK : false,
-  ANTI_LINK_KICK : false,
+  ANTI_LINK : true,
+  ANTI_LINK_KICK : true,
   MAX_SIZE : 100,
   MOROCCO_NUMBERS : {
         BLOCK : false,
@@ -72,12 +72,12 @@ module.exports = {
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
   },
-  AUTO_STICKER : false,
+  AUTO_STICKER : true,
   STICKERS : {
     "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
     "ne" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
   },
-  LOAD_ANIMATION : false,
+  LOAD_ANIMATION : true,
  
 };
