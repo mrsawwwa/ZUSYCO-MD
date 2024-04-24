@@ -42,7 +42,7 @@ module.exports = {
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : true,
   ANTI_LINK_KICK : true,
-  MAX_SIZE : 100,
+  MAX_SIZE : 500,
   MOROCCO_NUMBERS : {
         BLOCK : false,
         NOT_WORKING : false,
