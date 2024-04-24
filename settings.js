@@ -18,8 +18,8 @@ Creator : @darkmakerofc , @mr-nima-x
 module.exports = {
   OWNER_NUMBER: "94719750429",
   SUDO_NUMBERS : "94719750429",
-  OWNER_NAME: "『@🅼🆁.🅂🄰🅆🅆🄰/࿐』",
-  BOT_NAME : "*🄼🅁.🅂🄰🅆🅆🄰ᵇᵒᵗ©*",
+  OWNER_NAME: "『@🅼🆁.🅂🄰🅆🅆🄰_』",
+  BOT_NAME : "🄼🅁.🅂🄰🅆🅆🄰ᵇᵒᵗ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -36,13 +36,13 @@ module.exports = {
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[*🄼🅁.🅂🄰🅆🅆🄰ᵇᵒᵗ©*]',
+  STICKER_PACK : '[@🅼🆁.🅂🄰🅆🅆🄰]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : true,
   ANTI_LINK_KICK : true,
-  MAX_SIZE : 100,
+  MAX_SIZE : 500,
   MOROCCO_NUMBERS : {
         BLOCK : false,
         NOT_WORKING : false,
